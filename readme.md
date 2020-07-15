@@ -1,10 +1,10 @@
-# SimpleOTP_AllInOne_Win10x64_C$ 
-Download: https://github.com/yu2n/simpleotp/releases/tag/0.1
-```
-SimpleOTP_AllInOne_Win10x64_C$.zip
+# Update: Simple (T)OTP Server for Nginx Auth (Win10x64)
+Download: [SimpleOTP_AllInOne_Win10x64_C$.zip](https://github.com/yu2n/simpleotp/releases/download/0.1/SimpleOTP_AllInOne_Win10x64_C.zip)
 
+```
 How To Use:
-1. Expand "SimpleOTP_AllInOne_Win10x64_C$.zip" To "C:\"
+
+1. Download "SimpleOTP_AllInOne_Win10x64_C$.zip", Expand To "C:\"
 
 2. Run "C:\nginx-1.19.1\nginx.exe"
     Tips: Edit "C:\nginx-1.19.1\conf\nginx.conf" to more ..
@@ -12,7 +12,9 @@ How To Use:
 3. Run "C:\SimpleOTP\SimpleOTP-Server-Start.bat"
 
 4. Run Chrome, GoTo  http://localhost/ , Your See It ...
+```
 
+```
 nginx/Windows-1.19.1
 https://nginx.org/en/download.html
 
@@ -26,7 +28,9 @@ https://github.com/yu2n/simpleotp  (my ver, for win10)
 
 2020.07.14 YY 
 ```
+
 ---
+
 
 # Super Basic TOTP `auth_request` Server for nginx
 
